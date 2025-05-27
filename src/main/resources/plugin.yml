@@ -1,5 +1,6 @@
 name: LeavesDisappear
-version: '1.0.0'
+version: 1.0.0
 main: winlyps.leavesDisappear.LeavesDisappear
-api-version: '1.20'
-authors: [ Winlyps ]
+api-version: 1.19
+author: winlyps
+description: When you chop trees, leaves dynamically disappear.
