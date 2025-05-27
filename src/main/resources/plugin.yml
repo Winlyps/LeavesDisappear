@@ -1,0 +1,5 @@
+name: LeavesDisappear
+version: '1.0.0'
+main: winlyps.leavesDisappear.LeavesDisappear
+api-version: '1.20'
+authors: [ Winlyps ]
